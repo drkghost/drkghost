@@ -45,7 +45,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 0 5px"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer" style="padding: 0 5px"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer" style="padding: 0 5px"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="padding: 0 5px"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 
 
    
