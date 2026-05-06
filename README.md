@@ -2,7 +2,7 @@
 <h3 align="center">Experienced Software Engineer in Test (10+ years) specializing in test automation and QA methodologies. Proven ability to build automation solutions from scratch and coach teams for quality excellence.</h3>
 
 <h2 align="center">Connect with me:</h2>
-<table align="center">
+<table>
 <tr>
 <td><a href="https://www.linkedin.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yyrozhkov" width="40" height="40" /></a></td>
 <td><a href="https://stackoverflow.com/users/4610819" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4610819" width="40" height="40" /></a></td>
